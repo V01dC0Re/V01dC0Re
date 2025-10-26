@@ -1,3 +1,3 @@
 <h1 align="center">
-  &lt;sudo make me a sandwich/&gt;
+  <b>sudo</b> make me a sandwich
 </h1>
