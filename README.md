@@ -1,4 +1,5 @@
 <h1 align="center">
   sudo make me a sandwich
-  <img src="https://github.com/V01dC0Re/V01dC0Re/blob/main/gif/banished-from-the-heros-party-anime-rit.gif" width="40px" />
+  <img src="gif/banished-from-the-heros-party-anime-rit.gif" width="40px" />
 </h1>
+<img align="right" height="250" width="250" src="gif/ghostedvpn-hacker-cat.gif" /> 
