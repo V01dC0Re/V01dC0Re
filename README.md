@@ -2,6 +2,7 @@
   Ctrl+Alt+Hello!
   <img src="gif/banished-from-the-heros-party-anime-rit.gif" width="50px" />
 </h1>
+<br><br>
 
 ⚡<strong>Some facts about me:</strong><br>
 <img align="right" height="200" width="200" src="gif/bongo-cat-keyboard-smash.gif" /> 
