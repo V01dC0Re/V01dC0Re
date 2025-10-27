@@ -7,7 +7,7 @@
 
 ⚡<strong>Some facts about me:</strong><br>
 
-🎓 ITMO University — System and Applied Software (BSc, 3nd year)<br/>
+🎓 ITMO University — System and Applied Software (BSc, 2nd year)<br/>
 🧠 Tech Stack: JavaScript | Postgresql | Java<br/>
 🐋 DevOps Tools: Docker | CI/CD | Networking<br>
 🐧 Active _penguin_ user
@@ -15,7 +15,7 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
 <br/>
-<br/>
+
 
 
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"/></code>
