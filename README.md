@@ -32,7 +32,6 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></code>
 <code><img height="40" width="40" src="https://maven.apache.org/images/maven-logo-black-on-white.png"/></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/WildFly_logo.svg"/></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/></code>
 
