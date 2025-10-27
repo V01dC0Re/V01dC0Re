@@ -4,7 +4,7 @@
 </h1>
 <img align="right" height="250" width="250" src="gif/bongo-cat-keyboard-smash.gif" /> 
 
-<p style="font-size: 50px;"><b>Ctrl+Alt+Hello</b><p/><br/>
+<p style="font-size: 50px;"><b>Ctrl+Alt+Hello</b></p><br/>
 🎓 ITMO University — System and Applied Software (BSc, 3nd year)<br/>
 🧠 Tech Stack: JavaScript | Postgresql | Java<br/>
 🐋 DevOps Tools: Docker | CI/CD | Networking
