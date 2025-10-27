@@ -27,15 +27,16 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/></code>
-<code><img height="40" width="4-" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/></code>
-<code><img height="40" width="4-" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></code>
-<code><img height="40" width="4-" src="https://maven.apache.org/images/maven-logo-black-on-white.png"/></code>
-<code><img height="40" width="4-" src="https://www.wildfly.org/assets/images/wildfly_logo.png"/></code>
-<code><img height="40" width="4-" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/></code>
-<code><img height="40" width="4-" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/></code>
-
-
-
-
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"/></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></code>
+<code><img height="40" width="40" src="https://maven.apache.org/images/maven-logo-black-on-white.png"/></code>
+<code><img height="40" width="40" src="https://www.wildfly.org/assets/images/wildfly_logo.png"/></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/></code>
+
+
+
+
+
