@@ -8,3 +8,4 @@
 🎓 ITMO University — System and Applied Software (BSc, 3nd year)<br/>
 🧠 Tech Stack: JavaScript | Postgresql | Java<br/>
 🐋 DevOps Tools: Docker | CI/CD | Networking
+🐧 Active _penguin_ user
